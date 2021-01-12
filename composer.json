@@ -1,0 +1,12 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.2",
+        "ext-mbstring": "^7.4",
+        "symfony/polyfill-mbstring": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
